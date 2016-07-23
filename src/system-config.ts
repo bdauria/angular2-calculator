@@ -7,10 +7,14 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
+  'angular2-fontawesome': 'vendor/angular2-fontawesome'
 };
 
 /** User packages configuration. */
 const packages: any = {
+  'angular2-fontawesome':{
+    defaultExtension: 'js'
+  }
 };
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
